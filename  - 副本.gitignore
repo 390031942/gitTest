@@ -12,7 +12,6 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
